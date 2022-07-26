@@ -1,6 +1,7 @@
 import itertools
 
 class Baer:
+    #hier entsteht die Klasse Baer
     name = "e"
     nummer = itertools.count()
     alter = 0
