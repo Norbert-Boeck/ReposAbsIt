@@ -1,0 +1,2 @@
+class Baer:
+    pass
