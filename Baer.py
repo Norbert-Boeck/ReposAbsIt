@@ -7,7 +7,6 @@ class Baer:
     gewicht = 0
     groesse = 0
     def __init__(self, alter, gewicht, groesse):
-        self.name = name
         self.alter = alter
         self.gewicht = gewicht
         self.groesse = groesse
